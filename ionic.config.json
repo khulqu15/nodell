@@ -1,0 +1,7 @@
+{
+  "name": "nodell",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
