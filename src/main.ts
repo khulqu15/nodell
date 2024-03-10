@@ -23,6 +23,9 @@ import '@ionic/vue/css/display.css';
 /* Theme variables */
 import './theme/variables.css';
 
+import './app.css';
+import 'animate.css'
+
 const app = createApp(App)
   .use(IonicVue)
   .use(router);
